@@ -10,6 +10,6 @@ Keywords: social,engagement,comments,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-engage
-- Core contract: https://github.com/pooriaarab/agentic-engage/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-engage
+- Core contract: https://github.com/itsryanarmani/agentic-engage/blob/main/docs/agentic-core.md
 - License: MIT
